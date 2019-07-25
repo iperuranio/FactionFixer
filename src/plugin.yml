@@ -1,0 +1,7 @@
+name: FactionFixer
+version: 1.0
+description: Factions di merda
+author: claxon007
+main: FactionFixer.Main
+
+depends: [Factions, CombatLog]
