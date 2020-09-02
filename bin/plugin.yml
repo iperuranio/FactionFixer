@@ -4,4 +4,4 @@ description: Factions di merda
 author: claxon007
 main: FactionFixer.Main
 
-depends: [Factions, CombatLog]
+depends: [Factions, CombatLog, WorldGuard]
